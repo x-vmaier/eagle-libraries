@@ -19,7 +19,7 @@ To use the libraries, simply open Autodesk Eagle and select the library you want
 
 ## License
 
-The libraries in this repository are licensed under the MIT License. For more information, please see the [LICENSE.md](LICENSE.md) file. 
+The libraries in this repository are licensed under the MIT License. For more information, please see the [LICENSE.md](LICENSE) file. 
 
 ## Contributing
 
